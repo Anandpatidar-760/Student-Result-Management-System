@@ -5,7 +5,7 @@ INTRODUCTION:-
 
 In this project, I have tried to build an Student result management website, which can simulate all the basic
 controls that an actual required of store result website has.
-I have used eclipse oxygen 3a , java 1.8, tomcat 9.0 and MySQL 5.7.31
+I have used eclipse oxygen 3a , java 1.8, tomcat 8.0 and MySQL 5.7.31
 
 
 
